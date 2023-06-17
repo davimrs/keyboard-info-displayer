@@ -27,7 +27,7 @@ temperature-unit : "C" //String, "C" or "F"
 
 You can also make your own font to using it in the program.
 All font located in ..\keyboard-info-displayer-win32-x64\resources\app\src\Font
-using the existing font png to be the template.
+you may using the existing font png as the template.
 
 My Youtube Channel : 
 https://www.youtube.com/channel/UC29CLrJKvMkMlFnyXLyIhIw
