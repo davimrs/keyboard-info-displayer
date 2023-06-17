@@ -35,7 +35,14 @@ All font located in ..\keyboard-info-displayer-win32-x64\resources\app\src\Font
 
 you may using the existing font png as the template.
 
-My Youtube Channel : 
-https://www.youtube.com/channel/UC29CLrJKvMkMlFnyXLyIhIw
+Demo Video : 
 
-Ps. Im not a good programmer, the code is really bad, also my english bad too.
+https://youtu.be/XErS46W2-Ho
+
+
+You can download it here :
+
+https://github.com/davimrs/keyboard-info-displayer/releases/tag/demo-ver1
+
+
+Ps. Im not a good programmer, my code are really bad, also my english.
