@@ -1,0 +1,63 @@
+{
+  "name": "steelseries-keyboard-information-displayer",
+  "productName": "keyboard-info-displayer",
+  "version": "1.0.0",
+  "description": "This is an apps for people who own SteelSeries Keyboard with OLED display to have a better usage of the display",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\""
+  },
+  "keywords": [],
+  "author": {
+    "name": "DaviMrS",
+    "email": "davissoso@yahoo.com.hk",
+    "youtube": "https://www.youtube.com/channel/UC29CLrJKvMkMlFnyXLyIhIw" 
+  },
+  "license": "MIT",
+  "config": {
+    "forge": {
+      "packagerConfig": {},
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name": "keyboard-info-displayer"
+          }
+        },
+        {
+          "name": "@electron-forge/maker-zip",
+          "platforms": [
+            "darwin"
+          ]
+        },
+        {
+          "name": "@electron-forge/maker-deb",
+          "config": {}
+        },
+        {
+          "name": "@electron-forge/maker-rpm",
+          "config": {}
+        }
+      ]
+    }
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0",
+    "gamesense-client": "^2.0.2",
+    "image-pixels": "^2.2.2",
+    "os-utils": "0.0.14",
+    "node-fetch":"2.6.11"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.54",
+    "@electron-forge/maker-deb": "^6.0.0-beta.54",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.54",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.54",
+    "@electron-forge/maker-zip": "^6.0.0-beta.54",
+    "electron": "^25.1.1"
+  }
+}
