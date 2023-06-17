@@ -7,7 +7,9 @@ Setting.json is located in ..\keyboard-info-displayer-win32-x64\resources\app\sr
 
 
 -------------------------------------------------------------------------------------------------------------------------O
+
 Inside Setting.json:
+
 idleTime : 180 //Integer, after 'idleTime' seconds to trigger DVD screensaver effect.
 
 fps : 12 // Integer, refresh rate for updating the pixels.
