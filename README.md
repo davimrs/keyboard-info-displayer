@@ -1,4 +1,4 @@
-# OLED Info Diplayer for Steelseries Keyboard
+# OLED Info Displayer for Steelseries Keyboard
 This is an apps for people who own SteelSeries Keyboard with OLED display to have a better usage of the display.
 
 You'll need Steelseries GG running in background to use this apps.
