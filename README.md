@@ -19,6 +19,7 @@ latitude : "22.28" //String, latitude of your city, for open-meteo.com api to ge
 longitude : "114.17" //String, longitude of your city, for open-meteo.com api to get the current temperature in your selected city
 
 temperature-unit : "C" //String, "C" or "F"
+
 -------------------------------------------------------------------------------------------------------------------------O
 
 
