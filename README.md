@@ -27,6 +27,12 @@ temperature-unit : "C" //String, "C" or "F"
 
 You can also make your own font to using it in the program.
 All font located in ..\keyboard-info-displayer-win32-x64\resources\app\src\Font
+
+![alt text](https://github.com/davimrs/keyboard-info-displayer/blob/main/src/Font/Arial.png)
+![alt text](https://github.com/davimrs/keyboard-info-displayer/blob/main/src/Font/Minecraft.png)
+![alt text](https://github.com/davimrs/keyboard-info-displayer/blob/main/src/Font/Diary%20of%20an%208bit.png)
+![alt text](https://github.com/davimrs/keyboard-info-displayer/blob/main/src/Font/Hand%20Draw.png)
+
 you may using the existing font png as the template.
 
 My Youtube Channel : 
